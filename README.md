@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Using NextJS this is a simple blogger   
+
+to run download the necessary npx
+
+npm run dev...
