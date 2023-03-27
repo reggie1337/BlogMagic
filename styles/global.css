@@ -23,15 +23,22 @@ p {
 
 /* Links */
 a {
-  color: #0070f3;
+  color: blue;
   text-decoration: none;
-  transition: all 0.3s ease-in-out;
-}
-
-a:hover {
+  font-size: 1 rem;
+  /* font-weight: bold; */
+  transition: transform 0.2s ease-in-out;
+  /* text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #ffffff; */
+  }
+  
+  a:hover {
   text-decoration: underline;
-  color: #0053ba;
-}
+  /* color: #ffffff; */
+  /* background-color: #ff69b4; */
+  transform: scale(1.1);
+  /* border-radius: 10px; */
+  /* box-shadow: 2px 2px 0 #ffffff, -2px -2px 0 #ffffff; */
+  }
 
 /* Images */
 img {
